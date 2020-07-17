@@ -1,4 +1,0 @@
-The report contains information about different models used and their results.
-The Random Forest model got the best result which makes it the main model in this project. Other models could have been better but computational complexity wouldn't allow hyper parameter tuning on the 2012 machine am using.
-
-Please contact me if in-case you get any error while running the programs, but I did rigorously test them before sending.
