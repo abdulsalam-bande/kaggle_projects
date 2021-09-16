@@ -1,3 +1,7 @@
 *.csv
 *.jpg
+*.vec
+*.pt
+.idea
+Diabetes/.ipynb_checkpoints
 
